@@ -48,6 +48,9 @@ Oct/21/2020 V1.3 (by Dr. Aaron Feng)
 - Fixed Issues of the plugin can not work in R23: now NetCreator could perfectly compatibility with Cinema 4D R23.
 - Increase parameter “Factor” in order to accurate adjustment the speed of Propagation for VertexMap if the propagation process is too fast. 
 
+May/12/2022 (by Charlie Robin)
+- Fixed R26 issue
+
 Compatible:
 
 - Win / Mac
@@ -60,9 +63,12 @@ Cinema 4D plugin for creating linking-splines effect.
 For more information please check:
 
 V1.0-V1.2: https://www.behance.net/gallery/38292207/NetCreator-v11-Cinema-4D-plugin
-V1.3:      http://www.wise4d.com/netcreator-v1-3-plugin-is-now-compatible-with-cinema-4d-r23/
+
+V1.3: http://www.wise4d.com/netcreator-v1-3-plugin-is-now-compatible-with-cinema-4d-r23/
 
 ## NetCreator v1.1.1
 Cinema 4D plugin for creating linking-splines effect.
 
 For more information please check https://www.behance.net/gallery/38292207/NetCreator-v11-Cinema-4D-plugin
+
+![NetCreator Poster Image](images/netcreator.jpg)
