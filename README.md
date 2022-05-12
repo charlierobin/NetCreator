@@ -1,7 +1,7 @@
 # NetCreator v1.3.1
 Updated to work with Cinema 4D release 26. (Tested on R26.014 Macintosh.)
 
-https://storage.googleapis.com/charlierobin-1245.appspot.com/videos/work/NetCreatorDemo.mp4
+https://user-images.githubusercontent.com/10506323/168124825-214083ac-b55f-4a6e-91ff-10149d1a60a1.mp4
 
 ## Better README from v1.3 source code
 
