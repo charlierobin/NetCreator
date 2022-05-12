@@ -1,5 +1,5 @@
 """
-NetCreator V1.3.0
+NetCreator V1.3.1
 
 Copyright: Lewis Orton, https://www.behance.net/gallery/38292207/NetCreator-v11-Cinema-4D-plugin
 Author:    Lewis Orton
@@ -35,17 +35,20 @@ ChangeLog:
     Nov/22/2016 V1.1.1 (by Lewis Orton)
     - Fixed issue where selection was scaled down
 
-    Oct/21/2020 V1.3 (by Dr.Aaron Feng)
+    Oct/21/2020 V1.3 (by Dr. Aaron Feng)
     - Fixed runtime issue in R19 R20 R21 R22: there is an error infomation when parameter "Propagation" be available: 
       AttributeError: type object 'c4d.plugins.NodeData' has no attribute 'GetDEnabling'Traceback (most recent call last).
     - Fixed Issue where parameter "Strength" and "Size" could not coordinate unavailable as parameter "Turblence" is unchecked.
     - Fixed Issues of the plugin can not work in R23: now NetCreator could perfectly compatibility with Cinema 4D R23.
     - Increase parameter "Factor" in order to accurate adjustment the speed of Propagation for VertexMap if the propagation process is too fast. 
 
+    May/12/2022 V1.3.1 (by Charlie Robin)
+    - Update for R26
+    
 Compatible:
 
     - Win / Mac
-    - R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23
+    - R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26
 
 """
 
