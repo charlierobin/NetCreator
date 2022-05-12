@@ -95,6 +95,14 @@ CONTAINER Onetcreator
             MAXSLIDER 20;
             CUSTOMGUI REALSLIDER;
         }
+	REAL NETCREATOR_PROPAGATION_FACTOR {
+            STEP 0.01;
+            MIN 0;
+            MINSLIDER 0;
+            MAX 1;
+            MAXSLIDER 1;
+            CUSTOMGUI REALSLIDER;
+        }
         BOOL NETCREATOR_PROPAGATION_TURBULENCE {}
         LONG NETCREATOR_PROPAGATION_STRENGTH {
             CUSTOMGUI LONGSLIDER;
