@@ -1,8 +1,7 @@
 # NetCreator v1.3.1
 Updated to work with Cinema 4D release 26. (Tested on R26.014 Macintosh.)
 
-<iframe src=“https://player.vimeo.com/video/170286115?h=472683af70” width=“640” height=“360” frameborder=“0” allow=“autoplay; fullscreen; picture-in-picture” allowfullscreen></iframe>
-<p><a href=“https://vimeo.com/170286115”>NetCreator - Demo</a> from <a href=“https://vimeo.com/lewisorton”>Lewis Orton</a> on <a href=“https://vimeo.com”>Vimeo</a>.</p>
+https://storage.googleapis.com/charlierobin-1245.appspot.com/videos/work/NetCreatorDemo.mp4
 
 ## Better README from v1.3 source code
 
@@ -32,6 +31,7 @@ Features:
 Tutorial:
 
 V1.0-V1.2: https://www.behance.net/gallery/38292207/NetCreator-v11-Cinema-4D-plugin
+
 V1.3: http://www.wise4d.com/netcreator-v1-3-plugin-is-now-compatible-with-cinema-4d-r23/
 
 ChangeLog:
