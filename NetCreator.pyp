@@ -97,7 +97,7 @@ def debug(output):
 
 
 debug('\n')
-debug('NetCreator v1.3.0')
+debug('NetCreator v1.3.1')
 
 
 
